@@ -1,0 +1,53 @@
+_repo: Hunting-in-Many-LandsThe-Book-of-the-Boone-and-Crockett-Club_37122
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37122-h/images/cover.jpg
+creator:
+  editors:
+  - agent_name: Roosevelt, Theodore
+    aliases:
+    - United States President (1901-1909)
+    - Roosevelt, Teddy
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
+  - agent_name: Grinnell, George Bird
+    birthdate: 1849
+    deathdate: 1938
+    gutenberg_agent_id: '4021'
+    url: http://www.gutenberg.org/2009/agents/4021
+    wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Trapping
+- Animals-Wild-Mammals
+gutenberg_issued: '2011-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37122'
+  lccn: '11008167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting'
+- !lcc 'SK'
+tableOfContents: Hunting in East Africa / W.A. Chanler -- To the Gulf of Cortez /
+  George H. Gould -- A Canadian moose hunt / Madison Grant -- A hunting trip in India
+  / Elliott Roosevelt -- Dog sledging in the North / D.M. Barringer -- Wolf-hunting
+  in Russia / Henry T. Allen -- A bear-hunt in the Sierras / Alden Sampson -- The
+  Ascent of Chief Mountain / Henry L. Stimson -- The cougar / Casper W. Whitney --
+  Big game of Mongolia and Tibet / W.W. Rockhill -- Hunting in the cattle country
+  / Theodore Roosevelt -- Wolf-coursing / Roger D. Williams -- Game laws / Charles
+  E. Whitehead -- Protection of the Yellowstone National Park / George S. Anderson
+  -- The Yellowstone National Park Protection Act -- Head-measurements of the trophies
+  at the Madison Square Garden Sportsmen's Exposition -- National Park Protective
+  Act -- Constitution of the Boone and Crockett Club -- Officers of the Boone and
+  Crockett Club -- List of members.
+title: 'Hunting in Many Lands: The Book of the Boone and Crockett Club'
+url: http://www.gutenberg.org/ebooks/37122
