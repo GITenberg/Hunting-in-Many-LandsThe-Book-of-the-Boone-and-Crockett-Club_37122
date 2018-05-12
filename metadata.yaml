@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4021
     wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37122#Hunting-in-Many-LandsThe-Book-of-the-Boone-and-Crockett-Club
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Trapping
